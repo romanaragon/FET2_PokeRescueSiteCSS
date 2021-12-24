@@ -1,0 +1,121 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1614851099511-773084f6911d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    background-size:cover;
+    background-position-x: center;
+    background-position-y: center;
+    background-color: black;
+    max-width: 700px;
+    margin:auto;
+    font-family: roboto;
+}
+
+#greeting {
+    text-align: center;
+    height: auto;
+    width: 710px;
+    background-color: #152238;
+    color: #ffffff;
+}
+
+#links{
+    background-color: #152238;
+    width: 710px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    text-align:center;
+    text-size-adjust: 20px;
+}
+
+#table {
+    align-items: center;
+    background-color: #152238;
+    width: 710px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    text-align:center;
+    text-size-adjust: 20px;
+}
+
+#tips {
+    padding-bottom: auto;
+    padding-top: 4px;
+    text-align: center;
+    height: auto;
+    width: 710px;
+    background-color: #152238;
+    color: #ffffff;
+}
+
+a img {     
+    border: 2px;
+    border-color: #000000; 
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    text-emphasis-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+}
+
+th, td {
+    padding: 8px;
+    text-align:center;
+    color:#ffffff;
+}
+
+h1, h2, h5, h6 {
+    text-align:center;
+    color:#ffffff
+}
+
+h4 {
+    color:#ffffff
+}
+
+p{
+    text-align:center;
+    color:#ffffff
+}
+
+ul, ol {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    width: 670px;
+    background-color: #152238;
+    text-align:center;
+    color:#ffffff;
+}
+
+form {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    width: 710px;
+    background-color: #152238;
+    text-align:center;
+    color:#ffffff
+}
+
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+  }
+  
+  a:hover, a:active {
+    background-color:gold;
+  }
+ 
